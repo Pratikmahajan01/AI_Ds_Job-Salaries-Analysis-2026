@@ -1,4 +1,3 @@
-# AI_Ds_Job-Salaries_Analysis-2026
 # AI & Data Science Job Salaries 2026 Dashboard
 
 ## 🎯 Project Objective
