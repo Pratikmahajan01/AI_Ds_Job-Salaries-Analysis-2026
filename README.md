@@ -61,8 +61,7 @@ The dataset contains **5,000 AI & Data Science job records**. Each row represent
 
 ## 🖼️ Dashboard Preview
 
-![AI & Data Science Job Salaries 2026 Dashboard](dashboard-preview.png)
-
+![image alt](https://github.com/Pratikmahajan01/AI_Ds_Job-Salaries-Analysis-2026/blob/62abf40f67dd38b6de3b8c3a126c38a28a8ecf93/Screenshot%202026-08-27%20112611.png)
 ## 🔍 Key Insights
 
 **Financial Overview**
